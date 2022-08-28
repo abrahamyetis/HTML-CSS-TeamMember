@@ -19,6 +19,7 @@
     padding: 1rem;
     flex-wrap: wrap;
     align-items: flex-start;
+    text-align: center;
 }
 .left-header {
     width: 40%;
